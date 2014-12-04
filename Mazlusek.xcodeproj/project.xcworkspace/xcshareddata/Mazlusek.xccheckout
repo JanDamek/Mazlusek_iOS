@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FD30EA4B-0A93-4C15-9DC0-D0D84CFFDC61</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Mazlusek</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8F5F4BEFAC591A548BF501B30C1AEA5FCE3C4162</key>
+		<string>https://github.com/JanDamek/Mazlusek_iOS</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Mazlusek.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8F5F4BEFAC591A548BF501B30C1AEA5FCE3C4162</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JanDamek/Mazlusek_iOS</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8F5F4BEFAC591A548BF501B30C1AEA5FCE3C4162</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8F5F4BEFAC591A548BF501B30C1AEA5FCE3C4162</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Mazlusek_iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
